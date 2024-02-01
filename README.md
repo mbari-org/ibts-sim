@@ -16,6 +16,8 @@ Python scripts to simulate an imaging system sampling particle fields and return
 
 Simulates a background field of objects and a patch of high density objects. Drives the AUV through the patch doing yoyos and plots the counts vs depth and time where count/10 controls the marker opacity.
 
+![example output image](./images/example_output.jpeg) 
+
 # TODO (a lot)
 
 - Convert auv into component and add 3D lat/lon/depth input
